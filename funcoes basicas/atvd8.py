@@ -1,0 +1,5 @@
+print ('Vamos elevar?')
+base = int(input('Digite o número da sua base: '))
+exp = int(input('Digite o número do seu expoente: '))
+pow= pow(base,exp)
+print ('sua conta deu: ',pow)

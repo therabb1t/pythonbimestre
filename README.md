@@ -1,7 +1,7 @@
 # pythonbimestre
 Este repositório armazena todas as atividades de python realizadas no segundo bimestre do SENAC EMTI.
 
-> Operações - **01/07/2024**
+### Operações - **01/07/2024**
 > Nome da pasta: *operacoes*
 1. Crie um programa que leia dois números e faça a operação (adição, subtração, multiplicação, divisão) e exiba o resultado.
 2. Faça um programa que leia o raio de um círculo e calcule sua área. Utilize a fórmula: Área = π * raio^2.
@@ -11,10 +11,12 @@ Este repositório armazena todas as atividades de python realizadas no segundo b
 1. Faça um programa que leia os valores informados dos lados de um quadrado e dê a área do mesmo.
 2. Efetue uma calculadora para efetuar cálculos automáticos da hipotenusa de um triângulo retângulo.
 
-> Atividades em Dupla ou Individual - **05/07/2024**
+### Atividades em Dupla ou Individual - **05/07/2024**
 > Nome da pasta: *funcoes basicas*
 
+
 Questões 1 - 7 @InvaderKrm
+
 Questões 8 - 14 @therabb1t
 
 1. Calcular potências usando `pow()`
@@ -32,11 +34,11 @@ Questões 8 - 14 @therabb1t
 13. Calcular a soma de uma lista de listas
 14. Enumerar os elementos de uma lista com um índice inicial diferente
 
-> Biblioteca math - **12/07/2024**
-> Avaliação biblioteca math - **18/07/2024**
+### Biblioteca math - **12/07/2024**
+### Avaliação biblioteca math - **18/07/2024**
 > Nome da pasta: *biblioteca math*
 
-> Funções - **01/08/2024**
+### Funções - **01/08/2024**
 > Nome da pasta: *mais funcoes*
 1. Calculadora Simples
 2. Conversor de Temperatura
@@ -47,7 +49,7 @@ Questões 8 - 14 @therabb1t
 7. Conversor de Moedas
 8. Verificação de Números Primos
 
-> Condicionais - **02/08/2024**
+### Condicionais - **02/08/2024**
 > Nome da pasta: *condicionais!!!*
 1. Crie um programa que calcula a soma de todos os números em uma lista usando a estrutura for.
 2. Escreva um programa que exibe uma contagem regressiva de 10 até 1 usando a estrutura while.

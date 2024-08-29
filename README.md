@@ -1,5 +1,5 @@
 # pythonbimestre
-Este repositório armazena todas as atividades de python realizadas no segundo bimestre do SENAC EMTI.
+Este repositório armazena todas as atividades de python realizadas no segundo trimestre do SENAC EMTI.
 
 ### Operações - **01/07/2024**
 > Nome da pasta: *operacoes*
